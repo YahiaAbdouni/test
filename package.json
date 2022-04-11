@@ -1,5 +1,6 @@
 {
 	"name": "boilerplate-project-messagebaord",
+	"author": "Abdouni Yahia",
 	"version": "0.0.1",
 	"description": "InfoSec project for freeCodeCamp",
 	"main": "server.js",
